@@ -1,0 +1,158 @@
+{
+  "name": "Feathers Analytics Theme",
+  "dataColors": [
+    "#44546a",
+    "#3f6c8f",
+    "#3983b5",
+    "#349bda",
+    "#2eb2ff",
+    "#6291e8",
+    "#9770d2",
+    "#cb4fbb",
+    "#ff2ea4"
+  ],
+  "visualStyles": {
+    "barChart": {
+      "*": {
+        "labels": [
+          {
+            "backgroundColor": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "ThemeDataColor": {
+                      "ColorId": 6,
+                      "Percent": 0.6
+                    }
+                  }
+                }
+              }
+            },
+            "bold": true,
+            "color": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "ThemeDataColor": {
+                      "ColorId": 6,
+                      "Percent": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "transparency": 100
+          }
+        ],
+        "outspace": [
+          {
+            "color": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "ThemeDataColor": {
+                      "ColorId": 3,
+                      "Percent": 0.6
+                    }
+                  }
+                }
+              }
+            },
+            "transparency": 50
+          }
+        ]
+      }
+    },
+    "report": {
+      "*": {
+        "outspacePane": [
+          {
+            "visible": true,
+            "expanded": true
+          }
+        ]
+      }
+    },
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "ThemeDataColor": {
+                      "ColorId": 7,
+                      "Percent": 0.6
+                    }
+                  }
+                }
+              }
+            },
+            "show": true,
+            "transparency": 50
+          }
+        ],
+        "border": [
+          {
+            "color": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "ThemeDataColor": {
+                      "ColorId": 7,
+                      "Percent": 0.6
+                    }
+                  }
+                }
+              }
+            },
+            "radius": 3,
+            "show": true
+          }
+        ]
+      }
+    }
+  },
+  "textClasses": {
+    "title": {
+      "color": "#3983b5",
+      "fontFace": "Segoe UI",
+      "fontSize": 12
+    },
+    "label": {
+      "color": "#44546a",
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 10
+    },
+    "callout": {
+      "color": "#44546a",
+      "fontFace": "Segoe UI (Bold)",
+      "fontSize": 24
+    },
+    "header": {
+      "color": "#44546a",
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 12
+    }
+  },
+  "foreground": "#3983b5",
+  "foregroundLight": "#2eb2ff",
+  "foregroundDark": "#44546a",
+  "secondaryBackground": "#ffffff",
+  "backgroundLight": "#f3f2f1",
+  "firstLevelElements": "#3983b5",
+  "secondLevelElements": "#44546a",
+  "thirdLevelElements": "#2eb2ff",
+  "fourthLevelElements": "#3983b5",
+  "accent": "#ff2ea4",
+  "hyperlink": "#ff2ea4"
+}

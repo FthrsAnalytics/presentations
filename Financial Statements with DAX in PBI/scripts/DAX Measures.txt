@@ -1,0 +1,31 @@
+Subtotal = CALCULATE(
+                [Current Balance],
+                FILTER(
+                	ALL('Mapping'),
+                	'Mapping'[Sort] < MAX('Mapping'[Sort])
+                )
+            )
+
+
+Income Statement = 
+var display = NOT ISFILTERED(Categories)
+return
+SWITCH(TRUE(),
+    MAX(Mapping[Sort]) = 3 && display, [Subtotal],
+    MAX(Mapping[Sort]) = 7 && display, [Subtotal],
+    MAX(Mapping[Sort]) = 8 && display, [Start of Period],
+    MAX(Mapping[Sort]) = 9 && display, [End of Period],
+    [Current Balance])
+
+Retained Income = CALCULATE(
+			[Subtotal], 
+			FILTER(
+				ALL('Date'), 
+				'Date'[Date] <= MAX('Date'[Date])
+			)
+		)
+
+Previous Period Retained Income = CALCULATE(
+					[Retained Income], 
+					PREVIOUSYear('Date'[Date])
+				)
