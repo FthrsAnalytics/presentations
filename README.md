@@ -1,7 +1,7 @@
-# presentations
-This repository contains the example and demo files for all of the featured presentations by Feathers Analytics
+# Presentations
+This repository contains the example and demo files for all of the featured presentations by Feathers Analytics. The presentation materials are actively maintained and enhanced to incorporate updates to packages, libraries, and business intelligence tools, reflecting the latest trends and best practices in the field. This ongoing effort ensures that the content remains current and valuable.
 
-## Presentations
+## List of Presentations
 - [R Visuals](./R%20Visuals)
 - [Predictive Analytics with R in Power BI](./Predictive%20Analytics%20with%20R%20in%20PBI)
 - [Prep Your Data with R in Power BI](./Prep%20Your%20Data%20with%20R%20in%20PBI)
