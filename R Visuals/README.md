@@ -13,7 +13,9 @@ This session will begin with a high level introduction to R and how to use R scr
 
 ## Usage
 
-To view the Power BI report, open `report_1.pbix` with Power BI Desktop. For the R Scripts, ensure you have an R environment (I use RStudio) with necessary libraries installed.
+To view the Power BI report, open `R Visuals in Power BI.pbix` with Power BI Desktop. You will have to update the file_path parameter to reference the location of your source files.
+
+For the R Scripts, ensure you have an R environment (I use RStudio) with necessary libraries installed.
 
 ## Additional Resources
 
