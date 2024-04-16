@@ -2,13 +2,13 @@
 This repository contains the example and demo files for all of the featured presentations by Feathers Analytics
 
 ## Presentations
-- R Visuals
-- Predictive Analytics with R in Power BI
-- Prep Your Data with R in Power BI
-- Financial Statements with DAX in Power BI
-- Python Integration in Power BI
-- Power BI Mixtape: Vol. 1
-- Python Integration in Excel
+- [R Visuals](./R%20Visuals)
+- [Predictive Analytics with R in Power BI](./Predictive%20Analytics%20with%20R%20in%20PBI)
+- [Prep Your Data with R in Power BI](./Prep%20Your%20Data%20with%20R%20in%20PBI)
+- [Financial Statements with DAX in Power BI](./Financial%20Statements%20with%20DAX%20in%20Power%20BI)
+- [Python Integration in Power BI](./Python%20Integration%20in%20Power%20BI)
+- [Power BI Mixtape: Vol. 1](./Power%20BI%20Mixtape:%20Vol.%201)
+- [Python Integration in Excel](./Python%20Integration%20in%20Excel)
 
 ## Navigation
 
