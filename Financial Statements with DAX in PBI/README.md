@@ -10,16 +10,14 @@ This session will begin with a high level introduction to R and how to use R scr
 
 ## Contents
 
-- `slides`: Contains the PowerPoint slides (`R Visuals in Power BI.pptx`).
-- `reports`: Includes the Power BI report (`R Visuals in Power BI.pbix`).
-- `data`: Source files (`FPL Source Data.xlsx`).
-- `scripts`: Analysis scripts (`3 scripts that import, manipulate, and visualize the source data`).
+- `slides`: Contains the PowerPoint slides (`Financial Statements wtih DAX.pptx`).
+- `reports`: Includes the Power BI report (`Financial Statements with DAX.pbix`).
+- `data`: Source files (`Various source files for the custom mapping tables and data model`).
+- `scripts`: Analysis scripts (`DAX Measures that populate the financial statements`).
 
 ## Usage
 
-To view the Power BI report, open `R Visuals in Power BI.pbix` with Power BI Desktop. You will have to update the file_path parameter to reference the location of your source files.
-
-For the R Scripts, ensure you have an R environment (I use RStudio) with necessary libraries installed.
+To view the Power BI report, open `Financial Statements with DAX.pbix` with Power BI Desktop. You will have to update the file_path parameter to reference the location of your source files.
 
 ## Additional Resources
 
