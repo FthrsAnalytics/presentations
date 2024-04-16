@@ -6,10 +6,10 @@ This session will begin with a high level introduction to R and how to use R scr
 
 ## Contents
 
-- `slides`: Contains the PowerPoint slides (`presentation_1.pptx`).
-- `reports`: Includes the Power BI report (`report_1.pbix`).
-- `data`: Source files (`datafile.csv`, `dataset.xlsx`).
-- `scripts`: Analysis scripts (`analysis.R`, `notebook.ipynb`).
+- `slides`: Contains the PowerPoint slides (`R Visuals in Power BI.pptx`).
+- `reports`: Includes the Power BI report (`R Visuals in Power BI.pbix`).
+- `data`: Source files (`FPL Source Data.xlsx`).
+- `scripts`: Analysis scripts (`3 scripts that import, manipulate, and visualize the source data`).
 
 ## Usage
 
