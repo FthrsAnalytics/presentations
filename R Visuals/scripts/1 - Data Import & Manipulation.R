@@ -1,9 +1,10 @@
 # Load Packages
 library(tidyverse)
+library(readxl)
 
 # Import Data
-file_path <- "GitHub/presentations/"
-xl_path <- "R Visuals/data/R Visuals Power BI Fantasy.xlsx"
+file_path <- "C:/Users/jfthr/Documents/GitHub/presentations/"
+xl_path <- "R Visuals/data/FPL Source Data.xlsx"
 
 raw_data <- read_excel(paste0(file_path, xl_path), sheet = "Sheet1")
 
