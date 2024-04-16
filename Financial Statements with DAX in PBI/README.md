@@ -1,8 +1,8 @@
 # Financial Statements with DAX in Power BI
 
-Do you want to push the envelope of your visual reports? Do you need to visualize data beyond the default options included in Power BI? Utilizing the power of R visuals allow you to create more flexible and stunning reports.
+Tired of pressing that “Export to .csv” button in your accounting system?? Then let’s build Financial Statements that are dynamic, interactive, and refreshable in Power BI!
 
-This session will begin with a high level introduction to R and how to use R scripts as a data source. The advantages and limitations of leveraging R within Power BI will be covered throughout. Then, the fun part: developing R visuals within Power BI Desktop!
+This session will cover three foundational aspects of building financial statements:
 
 1. How to create a data model from across multiple sources
 2. How to build a customizable mapping file that provides a bespoke view of the financials
