@@ -8,6 +8,7 @@ This repository contains the example and demo files for all of the featured pres
 - [Financial Statements with DAX in Power BI](./Financial%20Statements%20with%20DAX%20in%20PBI)
 - [Python Integration in Power BI](./Python%20Integration%20in%20PBI)
 - [Power BI Mixtape: Vol. 1](./PBI%20Mixtape%20Vol%201)
+- [Python Integration in Excel](./Python%20Integration%20in%20Excel)
 
 ## Navigation
 
