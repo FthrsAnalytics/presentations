@@ -18,7 +18,7 @@ Then we’ll finish with a case study, using a classification model to demonstra
 
 ## Usage
 
-To view the Power BI report, open `R Visuals in Power BI.pbix` with Power BI Desktop. You will have to update the file_path parameter to reference the location of your source files.
+To view the Power BI report, open `Python Integration in Power BI.pbix` with Power BI Desktop. You will have to update the file_path parameter to reference the location of your source files.
 
 For the Jupyter Notebooks, ensure you have an appropriate Python environment with necessary libraries installed.
 
